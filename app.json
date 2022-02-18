@@ -1,5 +1,4 @@
-﻿{
-    "name": "iaacc",
+ "name": "zero-ss",
     "description": "xray websocket proxy on heroku",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
@@ -29,7 +28,7 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/trodrscc/iaacc/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/wweet44/zero-ss/master/etc/StoreFiles"
         }
     },
     "website": "https://github.com/wweet44/zero-ss",
